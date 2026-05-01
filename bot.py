@@ -12,7 +12,7 @@ except ImportError:
     print("Error: 'gatet.py' သို့မဟုတ် 'hit_sender.py' ကို မတွေ့ပါ။")
 
 # --- CONFIGURATION ---
-BOT_TOKEN = '8799414691:AAEgfzyFaERGUB5fKy1CpVQ9SrjepfYhhGI' 
+BOT_TOKEN = '' 
 ADMIN_ID = 7954343626              
 
 logging.basicConfig(
